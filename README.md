@@ -23,7 +23,6 @@ This project implements several fundamental **AI search algorithms** to solve cl
         * `ant_maze_env.py` - environment for the IDA* 
         * `fronzen_lake_env.py` - enviroment for BnB 
         * `tsp_env.py` - environment for hill climbing and simulated annealing
-    *   `results/` - Just to store some results.
     *   `scripts/` - Run script of algorithams and script to test environments.
         * `__pycache__/` - folder for the cache.
         * `run_algorithms.py` - script to run all the algorithm at once in it's respective environment 

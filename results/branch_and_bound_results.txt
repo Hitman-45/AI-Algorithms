@@ -1,3 +1,0 @@
-Algorithm: branch_and_bound
-Result: (None, inf)
-Time Taken: 0.0057 sec
